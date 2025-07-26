@@ -36,4 +36,4 @@ The **Student Counseling Portal** is a web-based platform designed to bridge the
 📥 Installation
 
 ```bash
-git clone https://github.com/yourusername/student-counseling-portal.git
+git clone https://github.com/Sumitpodder/student-counseling-portal.git
